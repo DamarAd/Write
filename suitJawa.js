@@ -35,3 +35,13 @@ if ( player == comp ) {
 
 // tampilkan hasilnya
 alert('Kamu memilih ' + player + ' dan Komputer memilih ' + comp + '\nMaka hasilnya : Kamu ' + hasil );
+
+
+
+
+
+
+
+
+
+
